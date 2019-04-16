@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\JsonEx\JsonEx\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\JsonEx\JsonEx\bin\Debug\JsonEx.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\JsonEx\JsonEx\bin\Debug\JsonEx.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\JsonEx\JsonEx\obj\Debug\JsonEx.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\JsonEx\JsonEx\obj\Debug\JsonEx.pdb
